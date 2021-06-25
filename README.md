@@ -54,9 +54,3 @@ client.login({clientId: '781798232447516692'})
 console.log('SUCCESS!')
 ```
  
-
-
-                                                                                                                                                                                                                                                                                                             
-<p align="center">
-  <h5 align="center">MRTOBYTE© | 2020-2021/h5>
-</p>
