@@ -50,7 +50,7 @@ client.on('ready', () => {
       })    
 })
 
-client.login({clientId: '781798232447516692'})
+client.login({clientId: 'id'})
 console.log('SUCCESS!')
 ```
  
